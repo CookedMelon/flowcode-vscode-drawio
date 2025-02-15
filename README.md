@@ -2,6 +2,8 @@
 
 ## 简介
 
+![alt text](assets/easy.gif)
+
 vscode内drawio流程图绘制+代码跳转工具，由[vscode-drawio](https://github.com/hediet/vscode-drawio)修改。
 
 > vscode-drawio是一个可用于在vscode中绘制drawio流程图的插件，然而该插件的代码跳转功能较弱且并不支持所有语言。本项目旨在对其作出改进，实现更为强大的代码跳转功能，改善平时梳理项目结构的效率。
