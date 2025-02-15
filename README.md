@@ -12,7 +12,7 @@ vscode内drawio流程图绘制+代码跳转工具，由[vscode-drawio](https://g
 >
 > 本项目基于行号信息实现跳转，因此会创建一个与drawio文件同名的`.codeline`文件，记录跳转信息。这样就可以实现对任何语言的支持，同时也可以准确定位到代码位置。
 
-
+觉得看文字教程麻烦可以直接看[视频](https://www.bilibili.com/video/BV1nkNEeREPy/?share_source=copy_web&vd_source=eac08133647d78cc7cb08d38024860b4)，实际上手很快，基本只需要跟着直觉操作。
 
 目前还未发布插件市场，提供demo版本，请自行从release页面下载vsix文件安装。后续代码进一步优化后将开源并发布到插件市场（随缘，我也不知道要多久）。
 
